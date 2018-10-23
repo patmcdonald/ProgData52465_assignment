@@ -1,1 +1,1 @@
-# This is my first commiti and content for this assignment.
+# This is my first commit and content for this assignment.
