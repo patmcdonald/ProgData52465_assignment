@@ -1,4 +1,4 @@
-# This is my first commit and content for this assignment.
+# This is my first commit and content for this assignment
 
 ### Working with Jupyter notebooks and GitHub
 
